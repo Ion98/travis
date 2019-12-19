@@ -7,4 +7,4 @@
 3. `docker-compose up -d`
 4. `docker-compose exec workspace bash`
 5. `composer install`
-
+6.
